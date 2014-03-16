@@ -47,7 +47,7 @@
         if ($name_th != '')
         {
             alert($name_th);
-           // $.post('/buffo/language/skill/edit/language.json', {name_th: $name_th, name_en: $name_en}, function(callback) {
+//            $.post('/buffo/language/skill/edit/language.json', {name_th: $name_th, name_en: $name_en}, function(callback) {
 
             });
         }
